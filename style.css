@@ -1,0 +1,18 @@
+body{
+  background-color: cyan
+}
+hr{
+  border-color: white;
+  border-style: dotted none none;
+  border-width: 5px;
+  width:2%;
+}
+h5{
+  color: red
+}
+h4{
+  color: indigo
+}
+h3{
+  color:blue
+}
